@@ -93,6 +93,10 @@ solace:
   #  value: solace
   tolerations: []
 
+  # solace.annotations allows to add additional annotations to the stateful set definition, see example below
+  #annotations:
+  #  networking.gke.io/load-balancer-type: "internal"
+
 image:
   # Default repository
   repository: solace/solace-pubsub-standard
