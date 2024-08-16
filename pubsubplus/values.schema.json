@@ -130,6 +130,9 @@
                         "array",
                         "null"
                     ]
+                },
+                "annotations": {
+                    "type": "object"
                 }
             },
             "if": {
