@@ -95,7 +95,7 @@ solace:
 
   # solace.annotations allows to add additional annotations to the stateful set definition, see example below
   #annotations:
-  #  networking.gke.io/load-balancer-type: "internal"
+  #  logging/settings: "info"
 
 image:
   # Default repository
